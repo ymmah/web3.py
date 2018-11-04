@@ -1,7 +1,8 @@
 # Web3.py
 
 ![](https://github.com/ymmah/web3.py/blob/master/AI/Go/ogle/ArtBoard%20Image%20(534).jpg)
-0xGo/ogle ( liang, 梁 ) dev
+0x
+Go/ogle (liang, 梁) dev
 
 [![Join the chat at https://gitter.im/ethereum/web3.py](https://badges.gitter.im/ethereum/web3.py.svg)](https://gitter.im/ethereum/web3.py?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
