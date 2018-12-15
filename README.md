@@ -1,4 +1,4 @@
-# Web3IDiot
+# Web3idiot
 
 ![](https://github.com/ymmah/web3.py/blob/master/AI/Go/ogle/ArtBoard%20Image%20(534).jpg)
 0x
